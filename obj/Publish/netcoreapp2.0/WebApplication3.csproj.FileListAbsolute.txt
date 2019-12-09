@@ -1,0 +1,11 @@
+D:\jenkinsTest\bin\Publish\netcoreapp2.0\WebApplication3.deps.json
+D:\jenkinsTest\bin\Publish\netcoreapp2.0\WebApplication3.runtimeconfig.json
+D:\jenkinsTest\bin\Publish\netcoreapp2.0\WebApplication3.runtimeconfig.dev.json
+D:\jenkinsTest\bin\Publish\netcoreapp2.0\WebApplication3.dll
+D:\jenkinsTest\bin\Publish\netcoreapp2.0\WebApplication3.pdb
+D:\jenkinsTest\obj\Publish\netcoreapp2.0\WebApplication3.csprojAssemblyReference.cache
+D:\jenkinsTest\obj\Publish\netcoreapp2.0\WebApplication3.csproj.CoreCompileInputs.cache
+D:\jenkinsTest\obj\Publish\netcoreapp2.0\WebApplication3.AssemblyInfoInputs.cache
+D:\jenkinsTest\obj\Publish\netcoreapp2.0\WebApplication3.AssemblyInfo.cs
+D:\jenkinsTest\obj\Publish\netcoreapp2.0\WebApplication3.dll
+D:\jenkinsTest\obj\Publish\netcoreapp2.0\WebApplication3.pdb

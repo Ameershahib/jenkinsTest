@@ -1,0 +1,12 @@
+D:\jenkinsTest
+--output-path=obj\Publish\netcoreapp2.0\
+--application-name=WebApplication3
+--content-root=D:\jenkinsTest
+--file=D:\jenkinsTest\Views\Home\About.cshtml
+--file=D:\jenkinsTest\Views\Home\Contact.cshtml
+--file=D:\jenkinsTest\Views\Home\Index.cshtml
+--file=D:\jenkinsTest\Views\Shared\Error.cshtml
+--file=D:\jenkinsTest\Views\Shared\_Layout.cshtml
+--file=D:\jenkinsTest\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\jenkinsTest\Views\_ViewImports.cshtml
+--file=D:\jenkinsTest\Views\_ViewStart.cshtml
